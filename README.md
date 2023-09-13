@@ -6,3 +6,5 @@
 ✔️ Tailwind CSS
 ✔️ Radix UI
 ✔️ Shadcn/UI
+✔️ Fastify
+✔️ Prisma
